@@ -1,2 +1,2 @@
 # infrastructure-cicd
-Simple infrastructure provisioning with Terraform &amp; Ansible for GCP instance. then setup pipeline to Jenkins for CI-CD
+Simple infrastructure provisioning with Terraform &amp; Ansible for GCP instance. Then pipeline it with Jenkins for CI-CD
